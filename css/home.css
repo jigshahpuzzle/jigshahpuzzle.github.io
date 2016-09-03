@@ -1,0 +1,16 @@
+.right-align {
+    position: absolute;
+    right: 0px;
+    padding-right: 5px !important;
+}
+
+.medium-width {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width : 700px;
+	margin : 0 auto;
+}
+
+p {
+	font-size: 16px !important;
+}

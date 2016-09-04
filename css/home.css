@@ -1,7 +1,9 @@
 .right-align {
-    position: absolute;
-    right: 0px;
-    padding-right: 5px !important;
+	float: right;
+}
+
+.left-align {
+	float: left;
 }
 
 .medium-width {
